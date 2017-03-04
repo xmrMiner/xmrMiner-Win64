@@ -5,6 +5,10 @@ ccminer is developed by Christian Buchner's &amp; Christian H.'s and modified by
 
 **This reposetory contains only the Windows 64bit binaries for the project xmrMiner.** 
 
+There are two binaries available:
+  - `xmrMiner_VERSION.exe` is static linked against CUDA8
+  - `xmrMiner_VERSION_dyn.exe` is dynamic linked against CUDA8 
+
 # Source Code
 
 The source code for the binaries can be found under [https://github.com/xmrMiner/xmrMiner](https://github.com/xmrMiner/xmrMiner)
