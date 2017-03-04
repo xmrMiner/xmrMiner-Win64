@@ -17,6 +17,19 @@ The source code for the binaries can be found under [https://github.com/xmrMiner
 
 If *xmrMiner* found **no device**, please try to install the latest CUDA driver from [this](https://developer.nvidia.com/cuda-downloads) side.
 
+# Easy Start
+
+If you are not so familiar with the Windows terminal you could use the easy scripts to start your miner.
+  - press on the right top in github on the green buttom `Clone or Download`
+  - press `Download ZIP`
+  - extract the downloaded zip file
+  - open the files `xmrMiner_VERSION_dyn_easyStart.bat` with a text editor
+  - substitude the adress in `xmrAdress` with your Monero(XMR) adress
+  - substitude the `poolUrl` with your favorite mining pool url
+  - check the `poolPassword`
+  - save all
+  - double klick on `xmrMiner_VERSION_dyn_easyStart.bat` to start the miner
+
 # Performance
 
 please read the [original document](https://github.com/xmrMiner/xmrMiner/blob/master/README.md)
