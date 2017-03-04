@@ -20,8 +20,8 @@ If *xmrMiner* found **no device**, please try to install the latest CUDA driver 
 # Easy Start
 
 If you are not so familiar with the Windows terminal you could use the easy scripts to start your miner.
-  - press on the right top in github on the green buttom `Clone or Download`
-  - press `Download ZIP`
+  - download *xmrMiner* - klick on the green github button `Clone or Download` (right top of this page)
+  - klick `Download ZIP`
   - extract the downloaded zip file
   - open the files `xmrMiner_VERSION_dyn_easyStart.bat` with a text editor
   - substitude the adress in `xmrAdress` with your Monero(XMR) adress
