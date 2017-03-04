@@ -13,6 +13,10 @@ There are two binaries available:
 
 The source code for the binaries can be found under [https://github.com/xmrMiner/xmrMiner](https://github.com/xmrMiner/xmrMiner)
 
+# Known Issues/Solution
+
+If *xmrMiner* found **no device**, please try to install the latest CUDA driver from [this](https://developer.nvidia.com/cuda-downloads) side.
+
 # Performance
 
 please read the [original document](https://github.com/xmrMiner/xmrMiner/blob/master/README.md)
