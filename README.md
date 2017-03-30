@@ -5,10 +5,6 @@ ccminer is developed by Christian Buchner's &amp; Christian H.'s and modified by
 
 **This reposetory contains only the Windows 64bit binaries for the project xmrMiner.** 
 
-There are two binaries available:
-  - `xmrMiner_VERSION.exe` is static linked against CUDA8
-  - `xmrMiner_VERSION_dyn.exe` is dynamic linked against CUDA8 
-
 # Source Code
 
 The source code for the binaries can be found under [https://github.com/xmrMiner/xmrMiner](https://github.com/xmrMiner/xmrMiner)
@@ -28,7 +24,8 @@ If you are not so familiar with the Windows terminal you could use the easy scri
   - substitude the `poolUrl` with your favorite mining pool url
   - check the `poolPassword`
   - save all
-  - double klick on `xmrMiner_VERSION_dyn_easyStart.bat` to start the miner
+  - double klick on `xmrMiner_VERSION_easyStart.bat` to start the miner
+  - to reach the best hash rate you need to set the `--launch=TxB` setting
 
 # Performance
 
