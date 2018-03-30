@@ -8,6 +8,14 @@ ccminer is developed by Christian Buchner's &amp; Christian H.'s and modified by
 # Source Code
 
 The source code for the binaries can be found under [https://github.com/xmrMiner/xmrMiner](https://github.com/xmrMiner/xmrMiner)
+The precompiled binaries is compiled from the [code release 0.3.0](https://github.com/xmrMiner/xmrMiner/releases/tag/0.3.0) 
+
+## precompiled binary checksum
+
+```
+$ sha256sum xmrMiner_0.3.0.exe 
+1bb33f754b8c1f8de7bcead0282dd4f4c8d48227bd4842c0a9dd004313b7314e  xmrMiner_0.3.0.exe
+```
 
 # Known Issues/Solution
 

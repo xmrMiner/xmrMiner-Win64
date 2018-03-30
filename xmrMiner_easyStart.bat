@@ -22,6 +22,6 @@ rem time between a kernel start
 set bSleep=25
 
 
-xmrMiner_0.2.1.exe --url=%poolUrl% -u %xmrAddress% -p %poolPassword% %launchParam% --bfactor=%bFactor% --bsleep=%bSleep%
+xmrMiner_0.3.0.exe --url=%poolUrl% -u %xmrAddress% -p %poolPassword% %launchParam% --bfactor=%bFactor% --bsleep=%bSleep%
 
 pause 
